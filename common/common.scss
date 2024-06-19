@@ -8,6 +8,9 @@ div[data-wrap] {
 [data-wrap="leader"] {
   flex-direction: column;
 }
+[data-wrap="top"] {
+  flex-direction: row;
+}
 
 
 
