@@ -1,3 +1,10 @@
+[data-global] {
+  display: flex;
+  flex-direction: row;
+  color: red
+}
+
+
 [data-presentation] {
   color: green;
   flex: 2;
