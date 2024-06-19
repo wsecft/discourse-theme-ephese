@@ -1,0 +1,23 @@
+[data-presentation] {
+  color: green;
+  flex: 2;
+}
+div[data-wrap] {
+  display: flex;
+}
+[data-wrap="leader"] {
+  flex-direction: column;
+}
+
+
+
+
+
+
+[data-site] {
+  flex: 2;
+}
+
+[data-responsable] {
+  flex-shrink: 2;
+}
