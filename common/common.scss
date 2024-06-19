@@ -18,6 +18,9 @@
 [data-bottom] {
   flex-direction: row;
   display: flex;
+  p {
+    margin: auto;
+  }
 }
 
 [data-up] {
