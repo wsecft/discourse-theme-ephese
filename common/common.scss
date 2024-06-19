@@ -1,6 +1,6 @@
 [data-global] {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   color: red
 }
 
@@ -9,15 +9,19 @@
   color: green;
   flex: 2;
 }
-div[data-wrap] {
-  display: flex;
-}
-[data-wrap="leader"] {
-  flex-direction: row;
+
+[data-leader] {
+  flex-direction: column;
   display: inline;
 }
 
+[data-bottom] {
+  flex-direction: row;
+}
 
+[data-up] {
+  flex-direction: row;
+}
 
 
 
