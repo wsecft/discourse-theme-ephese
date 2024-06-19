@@ -12,16 +12,17 @@
 
 [data-leader] {
   flex-direction: column;
-  display: inline;
+  display: flex;
 }
 
 [data-bottom] {
   flex-direction: row;
-  display: block
+  display: flex;
 }
 
 [data-up] {
   flex-direction: row;
+  display: flex;
 }
 
 
