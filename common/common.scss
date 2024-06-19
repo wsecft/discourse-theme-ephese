@@ -7,7 +7,7 @@
 
 [data-presentation] {
   color: green;
-  flex: 2;
+  flex: 1;
 }
 
 [data-leader] {
@@ -23,6 +23,7 @@
 [data-up] {
   flex-direction: row;
   display: flex;
+  justify-content: center;
 }
 
 
