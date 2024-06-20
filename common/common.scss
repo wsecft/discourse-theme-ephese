@@ -18,12 +18,13 @@
 [data-bottom] {
   flex-direction: row;
   display: flex;
+  justify-items: center;
 }
 
 [data-up] {
   flex-direction: row;
   display: flex;
-  justify-content: center;
+  justify-items: center;
 }
 
 
