@@ -18,18 +18,12 @@
 [data-bottom] {
   flex-direction: row;
   display: flex;
-  p {
-    margin: 10px;
-  }
 }
 
 [data-up] {
   flex-direction: row;
   display: flex;
   justify-content: center;
-  p {
-    margin: auto
-  }
 }
 
 
